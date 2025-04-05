@@ -1,4 +1,4 @@
-```markdown
+
 # RAG-QA：基于语义检索与大模型生成的智能问答系统
 
 本项目构建了一个端到端的 RAG (Retrieval-Augmented Generation) 架构原型系统，融合 **Sentence-BERT 语义检索 + Flan-T5 回答生成**，用于从 FAQ 文档中自动回答自然语言问题，适用于客服助手、搜索问答、推荐解释等应用场景。
